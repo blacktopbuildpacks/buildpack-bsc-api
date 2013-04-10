@@ -1,2 +1,2 @@
-buildpack-bsc-api
+buildpack-vdc-api
 =================
